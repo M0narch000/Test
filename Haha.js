@@ -1,4 +1,4 @@
-
+alert("hey")
  //--------------------------------------------------START OF SETUP---------------------------------------------------------------
 function loadScript(src) {
             return new Promise((resolve, reject) => {
