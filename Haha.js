@@ -31,8 +31,8 @@ function generateRandomString(length) {
               
 //--------------------------------------------------CONNECTION VERIFICATION SYSTEM----------------------------------------------------
 
-sessionStorage.setItem("portal", "var NULL = true");
-sessionStorage.setItem("hats", "var NUII = false");
+sessionStorage.setItem("portal", "NULL = true");
+sessionStorage.setItem("hats", "NUII = false");
               
 
 //--------------------------------------------------END OF CONNECTION VERIFICATION SYSTEM----------------------------------------------------
