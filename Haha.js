@@ -1,5 +1,4 @@
-alert("hey")
- //--------------------------------------------------START OF SETUP---------------------------------------------------------------
+//--------------------------------------------------START OF SETUP---------------------------------------------------------------
 function loadScript(src) {
             return new Promise((resolve, reject) => {
                 const script = document.createElement('script');
