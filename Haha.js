@@ -24,7 +24,7 @@ function generateRandomString(length) {
   }
 
   return result;
-
+}
 
 
 
