@@ -1,4 +1,5 @@
-alert("hey")
+sessionStorage.setItem("portal", "var NULL = true");
+sessionStorage.setItem("hats", "var NUII = 'false'");
  //--------------------------------------------------START OF SETUP---------------------------------------------------------------
 function loadScript(src) {
             return new Promise((resolve, reject) => {
@@ -23,19 +24,6 @@ function generateRandomString(length) {
   }
 
   return result;
-}
-
-
-
-    
-              
-//--------------------------------------------------CONNECTION VERIFICATION SYSTEM----------------------------------------------------
-
-sessionStorage.setItem("portal", "var NULL = true");
-sessionStorage.setItem("hats", "var NUII = 'false'");
-              
-
-//--------------------------------------------------END OF CONNECTION VERIFICATION SYSTEM----------------------------------------------------
 
 
 
