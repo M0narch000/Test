@@ -68,7 +68,7 @@ AP()
 
 const SET = {
       Kill: false, // Nuke
-      Shutdown: false, //Regular matienence shutdown
+      Shutdown: true, //Regular matienence shutdown
       Inject: '' // !!!!!!!!!!!!!!!!!!!!!!!!!!!! Need to inplement/add !!!!!!!!!!!!!!!!!!!!!!!!!!!!
     };
 
